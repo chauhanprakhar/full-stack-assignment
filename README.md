@@ -12,5 +12,5 @@
 
 
 
-** Steps to run both are given in README section of both directories**
+**Steps to run both are given in README section of both directories**
 ---
