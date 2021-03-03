@@ -8,6 +8,9 @@
 
 
 *Make sure you know your username and password of MYSQL to fill in DATABASE section*
----
+
+
+
 
 ** Steps to run both are given in README section of both directories**
+---
